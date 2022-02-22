@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning / Clustering on cryptocurrency dataset
+# Unsupervised Machine Learning / Clustering cryptocurrency dataset
 Cleaning of a cryptocurrency dataset to perform and visualize clustering using Principal Component Analysis, K-means
 
 ## Resources
